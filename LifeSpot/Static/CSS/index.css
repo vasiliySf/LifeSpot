@@ -60,6 +60,9 @@ aside {
 body {
     padding-left: 11%;
 }
+body p:hover {
+    color: blue;
+}
 header, footer, body, .video-container {
     background-color: linen;
 }
